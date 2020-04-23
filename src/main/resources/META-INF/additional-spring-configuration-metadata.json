@@ -1,0 +1,14 @@
+{
+  "properties": [
+    {
+      "name": "page-info.author",
+      "type": "java.lang.String",
+      "description": "Description for page-info.author."
+    },
+    {
+      "name": "page-info.creationDate",
+      "type": "java.lang.String",
+      "description": "Description for page-info.creationDate."
+    }
+
+  ] }
